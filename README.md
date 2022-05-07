@@ -3,7 +3,7 @@
 ## 遇到的坑
 想把使用OpenCvSharp库的Web项目部署到Linux，发现会报一个[错误](https://github.com/shimat/opencvsharp/issues/983 "错误")，类似这种错误，网上找到了[解决方案](https://github.com/shimat/opencvsharp#ubuntu-1804-1 "解决方案")。
 大致流程如下：
-1、在服务器下载OpenCV和OpenCV_Contrib安装，版本需要一致
-2、下载opencvSharp安装，版本需要和上面一致
-3、配置环境变量
+1. 在服务器下载OpenCV和OpenCV_Contrib安装，版本需要一致
+2. 下载opencvSharp安装，版本需要和上面一致
+3. 配置环境变量
 上面流程操作完net core项目就能正常使用opencv了
