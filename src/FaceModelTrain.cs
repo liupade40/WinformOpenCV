@@ -79,6 +79,7 @@ namespace WinformOpenCV
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
             NotNull(textBox1);
             NotNull(textBox2);
             NotNull(textBox3);
