@@ -6,4 +6,5 @@
 1. 在服务器下载OpenCV和OpenCV_Contrib项目编译安装，版本需要一致
 2. 下载OpencvSharp编译安装，版本需要和上面一致
 3. 配置环境变量
+
 上面流程操作完.Net Core项目就能正常使用OpenCV了
